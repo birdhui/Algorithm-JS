@@ -18,5 +18,6 @@ JavaScript를 사용하여 백준 알고리즘 문제를 해결하고 학습한 
 | 2026-01-12 | [10952](https://www.acmicpc.net/problem/10952) | [A+B - 5](./src/baekjoon-10952.js) | B 5 | `While Loop`<br>`Sentinel Value` |
 | 2026-01-13 | [10953](https://www.acmicpc.net/problem/10953) | [A+B - 6](./src/baekjoon-10953.js) | B 3 | `split(',')`<br>`Parsing` |
 | 2026-01-14 | [11021](https://www.acmicpc.net/problem/11021) | [A+B - 7](./src/baekjoon-11021.js) | B 5 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-14 | [11022](https://www.acmicpc.net/problem/11022) | [A+B - 7](./src/baekjoon-11022.js) | B 5 | `Template Literal`<br>`Output Opt.` |
 
 </div>
