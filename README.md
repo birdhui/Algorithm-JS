@@ -19,5 +19,9 @@ JavaScript를 사용하여 백준 알고리즘 문제를 해결하고 학습한 
 | 2026-01-13 | [10953](https://www.acmicpc.net/problem/10953) | [A+B - 6](./src/baekjoon-10953.js) | B 3 | `split(',')`<br>`Parsing` |
 | 2026-01-14 | [11021](https://www.acmicpc.net/problem/11021) | [A+B - 7](./src/baekjoon-11021.js) | B 5 | `Template Literal`<br>`Output Opt.` |
 | 2026-01-14 | [11022](https://www.acmicpc.net/problem/11022) | [A+B - 8](./src/baekjoon-11022.js) | B 5 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-15 | [11022](https://www.acmicpc.net/problem/11022) | [A+B - 8](./src/baekjoon-11022.js) | B 5 | `reFactoring` |
+| 2026-01-21 | [11718](https://www.acmicpc.net/problem/11718) | [그대로 출력하기](./src/baekjoon-11718.js) | B 3 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-21 | [11719](https://www.acmicpc.net/problem/11719) | [그대로 출력하기 2](./src/baekjoon-11719.js) | B 3 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-21 | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](./src/baekjoon-11720.js) | B 4 | `Template Literal`<br>`Output Opt.` |
 
 </div>
