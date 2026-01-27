@@ -23,5 +23,9 @@ JavaScript를 사용하여 백준 알고리즘 문제를 해결하고 학습한 
 | 2026-01-21 | [11718](https://www.acmicpc.net/problem/11718) | [그대로 출력하기](./src/baekjoon-11718.js) | B 3 | `Template Literal`<br>`Output Opt.` |
 | 2026-01-21 | [11719](https://www.acmicpc.net/problem/11719) | [그대로 출력하기 2](./src/baekjoon-11719.js) | B 3 | `Template Literal`<br>`Output Opt.` |
 | 2026-01-21 | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](./src/baekjoon-11720.js) | B 4 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-26 | [11721](https://www.acmicpc.net/problem/11721) | [열 개씩 끊어 출력하기](./src/baekjoon-11721.js) | B 3 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-26 | [2741](https://www.acmicpc.net/problem/2741) | [N 찍](./src/baekjoon-2741.js) | B 5 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-27 | [2742](https://www.acmicpc.net/problem/2742) | [기찍 N](./src/baekjoon-2742.js) | B 5 | `Template Literal`<br>`Output Opt.` |
+| 2026-01-27 | [2739](https://www.acmicpc.net/problem/2739) | [구구단](./src/baekjoon-2739.js) | B 5 | `Template Literal`<br>`Output Opt.` |
 
 </div>
